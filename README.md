@@ -9,5 +9,5 @@ open includes/conf.php and set the database info and insure REGISTER_A is set to
 Setup the SQL tables.
 
 Credits:
-panique/php-login-minimal
+panique/php-login-minimal AND
 PHP freaks for answering all my dumb questions.
